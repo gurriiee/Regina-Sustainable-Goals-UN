@@ -1,4 +1,7 @@
 <h1 align = 'center'> Zega Design Group - Regina SDG </h1>
+<p align="center">
+  <img src="banner.png" alt="Regina SDG Initiative Banner" />
+</p>
 
 <h2> Contributors </h2>
 <h3>
